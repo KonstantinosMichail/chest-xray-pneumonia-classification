@@ -1,6 +1,3 @@
-# chest-xray-pneumonia-classification
-Machine learning and deep learning approaches for chest X-ray pneumonia classification
-
 # Chest X-Ray Pneumonia Classification
 
 Image analysis and machine learning project using chest X-ray images to classify normal and pneumonia cases.
